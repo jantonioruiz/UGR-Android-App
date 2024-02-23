@@ -1,0 +1,4 @@
+<!-- res/drawable/imagen_icono.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/becas" android:width="100dp" android:height="100dp" />
+</layer-list>

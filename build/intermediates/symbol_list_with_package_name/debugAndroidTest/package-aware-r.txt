@@ -1,0 +1,4 @@
+com.example.miaplicacionmovil.test
+string ClientAccessToken
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

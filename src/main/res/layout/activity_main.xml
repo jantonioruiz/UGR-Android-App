@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/beige"
+    tools:context=".MenuActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:id="@+id/principal"
+        tools:ignore="UselessParent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.50"
+            android:orientation="horizontal"
+            tools:ignore="UselessParent">
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/fb_qr"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentBottom="true"
+                android:layout_gravity="left|center"
+                android:layout_marginStart="@dimen/fab_margin"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="@dimen/fab_margin"
+                android:layout_marginEnd="@dimen/fab_margin"
+                android:layout_marginBottom="30dp"
+                android:importantForAccessibility="no"
+                app:backgroundTint="@color/naranja"
+                app:srcCompat="@drawable/logo_qr"
+                tools:ignore="ImageContrastCheck,RtlHardcoded" />
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/fb_help"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginTop="@dimen/fab_margin"
+                android:layout_marginBottom="30dp"
+                android:importantForAccessibility="no"
+                app:backgroundTint="@color/naranja"
+                app:srcCompat="@drawable/logohelp"
+                tools:ignore="ImageContrastCheck,RtlHardcoded" />
+
+            <com.google.android.material.floatingactionbutton.FloatingActionButton
+                android:id="@+id/fb_brightness"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentBottom="true"
+                android:layout_gravity="left|center"
+                android:layout_marginStart="275dp"
+                android:layout_marginTop="@dimen/fab_margin"
+                android:layout_marginEnd="@dimen/fab_margin"
+                android:layout_marginBottom="30dp"
+                android:importantForAccessibility="no"
+                app:backgroundTint="@color/naranja"
+                app:srcCompat="@drawable/logo_brightness"
+                tools:ignore="ImageContrastCheck,RtlHardcoded" />
+
+            <Button
+                android:id="@+id/puntosinteres"
+                android:layout_width="300dp"
+                android:layout_height="150dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20pt"
+                android:text="Puntos de interés"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:drawableLeft="@drawable/logopuntointeres"
+                android:paddingLeft="16dp"
+                android:background="@drawable/boton_borde"/>
+
+            <Button
+                android:id="@+id/facultades"
+                android:layout_width="300dp"
+                android:layout_height="150dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="120pt"
+                android:text="Facultades"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:drawableLeft="@drawable/logofacultades"
+                android:paddingLeft="16dp"
+                android:background="@drawable/boton_borde" />
+
+            <Button
+                android:id="@+id/informacion"
+                android:layout_width="300dp"
+                android:layout_height="150dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="220pt"
+                android:text="Información"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:drawableLeft="@drawable/logoinformacion"
+                android:paddingLeft="16dp"
+                android:background="@drawable/boton_borde"/>
+
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</FrameLayout>

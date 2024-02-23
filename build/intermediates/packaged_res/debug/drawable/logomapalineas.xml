@@ -1,0 +1,14 @@
+<!-- res/drawable/imagen_icono.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Borde -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF" /> <!-- Color del fondo, ajusta según sea necesario -->
+            <stroke android:color="#000000" android:width="5dp" /> <!-- Color y ancho del borde -->
+            <corners android:radius="10dp" /> <!-- Radio de las esquinas, ajusta según sea necesario -->
+        </shape>
+    </item>
+
+    <!-- Imagen -->
+    <item android:drawable="@drawable/mapalineas" android:width="225dp" android:height="325dp" />
+</layer-list>

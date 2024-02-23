@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logo_qr.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logo_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_botdf.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\botdf.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_f_ciencias.jpg.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\f_ciencias.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_f_rectorado.jpg.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\f_rectorado.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logopuntointeres.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logopuntointeres.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\layout_activity_becasyreasmus.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_becasyreasmus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logobecas.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logobecas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_f_caminos.jpg.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\f_caminos.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\layout_user_msg_layout.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\user_msg_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\layout_slide_screen.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\slide_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_naranja_drawable.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\naranja_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_becaugr.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\becaugr.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logobrillo.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logobrillo.png"
+    },
+    {
+        "merged": "com.example.miaplicacionmovil.app-merged_res-36:/layout_activity_becasyreasmus.xml.flat",
+        "source": "com.example.miaplicacionmovil.app-main-38:/layout/activity_becasyreasmus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_flechader.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\flechader.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_f_churros.jpg.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\f_churros.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\raw_bot_dialogflow.json.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\raw\\bot_dialogflow.json"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_f_pts.jpg.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\f_pts.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\layout_activity_info.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logobrujula.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logobrujula.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_f_edificacion.jpg.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\f_edificacion.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_boton_cuadrado.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\boton_cuadrado.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\layout_bot_msg_layout.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\bot_msg_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_bus.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\bus.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_sonidodf.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\sonidodf.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_f_derecho.jpg.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\f_derecho.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_f_etsiit.jpg.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\f_etsiit.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logobot.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logobot.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logomapas.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logomapas.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logocomedor.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logocomedor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_white_button.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\white_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_usuariodf.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\usuariodf.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_f_centenario.jpg.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\f_centenario.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_erasmus.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\erasmus.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\layout_activity_slide.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logobus.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logobus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\layout_activity_route_faculty_selected.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_route_faculty_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logo_brightness.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logo_brightness.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logoinformacion.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logoinformacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_localizacioncomedor.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\localizacioncomedor.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_flechaizq.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\flechaizq.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logo_maps.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logo_maps.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\layout_activity_visualizar_facultad.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_visualizar_facultad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logogiroscopio.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logogiroscopio.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\layout_activity_qr.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_facultades.jpeg.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\facultades.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logosonidodf.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logosonidodf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_flechaizqsinrelleno.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\flechaizqsinrelleno.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_puntoinformacion.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\puntoinformacion.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_becamec.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\becamec.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logohelp.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logohelp.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_mapalineas.jpg.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\mapalineas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logofacultades.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logofacultades.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_f_comedor.jpg.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\f_comedor.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_naranja_claro_drawable.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\naranja_claro_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logomicrofonodf.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logomicrofonodf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logomapalineas.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logomapalineas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_informacion.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\informacion.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\layout_activity_list_faculty.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_list_faculty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_f_cartuja.jpg.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\f_cartuja.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\layout_activity_comedor.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_comedor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_becas.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\becas.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_borde_imagen.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\borde_imagen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\layout_activity_dialogflow.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_dialogflow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_boton_borde.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\boton_borde.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_comedor.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\comedor.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logougr.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logougr.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_puntointeres.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\puntointeres.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logoapp.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logoapp.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logolectorqr.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logolectorqr.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\layout_activity_transporte.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_transporte.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_f_citic.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\f_citic.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\layout_item_faculty.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\item_faculty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\layout_custom_info_window.xml.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\custom_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logobrujula2.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logobrujula2.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_accesocomedor.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\accesocomedor.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_flechadersinrelleno.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\flechadersinrelleno.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_microfonodf.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\microfonodf.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_black_button.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\black_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-merged_res-36:\\drawable_logo_autobrightness.png.flat",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\drawable\\logo_autobrightness.png"
+    }
+]

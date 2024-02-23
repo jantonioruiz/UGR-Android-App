@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/beige"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="150dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.44"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.065"
+        app:srcCompat="@drawable/logougr" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="250dp"
+        android:layout_height="120dp"
+        android:gravity="center"
+        android:text="ETSIIT Punto de Información"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/subtitle"
+        app:layout_constraintHorizontal_bias="0.369"
+        app:layout_constraintStart_toStartOf="@+id/subtitle"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.484" />
+
+    <TextView
+        android:id="@+id/subtitle"
+        android:layout_width="323dp"
+        android:layout_height="141dp"
+        android:gravity="center"
+        android:text="Tutorial: Se mostrará lo que puede realizar con la aplicación."
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.596"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.745" />
+
+    <Button
+        android:id="@+id/botonComenzar"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:text="Comenzar"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:background="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/boton1"
+        android:layout_width="15dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/boton2"
+        app:layout_constraintHorizontal_bias="0.1"
+        app:layout_constraintVertical_bias="0.821"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/black_button" />
+
+    <ImageView
+        android:id="@+id/boton2"
+        android:layout_width="15dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintVertical_bias="0.821"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/boton3"
+        app:layout_constraintStart_toEndOf="@+id/boton1"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/black_button" />
+
+    <ImageView
+        android:id="@+id/boton3"
+        android:layout_width="15dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintVertical_bias="0.821"
+        app:layout_constraintEnd_toStartOf="@+id/boton4"
+        app:layout_constraintStart_toEndOf="@+id/boton2"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/black_button" />
+
+    <ImageView
+        android:id="@+id/boton4"
+        android:layout_width="15dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintVertical_bias="0.821"
+        app:layout_constraintEnd_toStartOf="@+id/boton5"
+        app:layout_constraintStart_toEndOf="@+id/boton3"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/black_button" />
+
+    <ImageView
+        android:id="@+id/boton5"
+        android:layout_width="15dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintVertical_bias="0.821"
+        app:layout_constraintEnd_toStartOf="@+id/boton6"
+        app:layout_constraintStart_toEndOf="@+id/boton4"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/black_button" />
+
+    <ImageView
+        android:id="@+id/boton6"
+        android:layout_width="15dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintVertical_bias="0.821"
+        app:layout_constraintEnd_toStartOf="@+id/boton7"
+        app:layout_constraintStart_toEndOf="@+id/boton5"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/black_button" />
+
+    <ImageView
+        android:id="@+id/boton7"
+        android:layout_width="15dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintVertical_bias="0.821"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/boton6"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/black_button" />
+
+    <ImageView
+        android:id="@+id/ic_back"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.042"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/flechaizq" />
+
+    <ImageView
+        android:id="@+id/ic_next"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.958"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.499"
+        app:srcCompat="@drawable/flechader" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

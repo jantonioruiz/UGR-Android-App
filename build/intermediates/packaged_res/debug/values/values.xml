@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_app">#0E0B20</color>
+    <color name="background_button">#EB1555</color>
+    <color name="background_component">#1D1E33</color>
+    <color name="background_component_selected">#FF111328</color>
+    <color name="background_fab">#FF3700B3</color>
+    <color name="beige">#FFE0B2</color>
+    <color name="beige_oscuro">#F4833B</color>
+    <color name="black">#FF000000</color>
+    <color name="blue">#536DFE</color>
+    <color name="colorPrimaryDark">#FF000000</color>
+    <color name="green">#B2FF59</color>
+    <color name="kotlin">#9C27B0</color>
+    <color name="naranja">#FFA500</color>
+    <color name="naranja_claro">#F3C878</color>
+    <color name="naranja_super_claro">#F4E4C4</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red">#FF4081</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="title_text">#FF8D8E98</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <dimen name="fab_margin"/>
+    <string name="ClientAccessToken" translatable="false">"1b053bc427937e58bfaf14ad220b1f2c26e647f3"</string>
+    <string name="app_name">ETSIIT Punto Información</string>
+    <string name="audio_permission_granted">Permisos de audio otorgados</string>
+    <string name="camera_access_required">El acceso a la cámara es necesario para usar el lector QR.</string>
+    <string name="camera_permission_available">Permisos de la cámara disponibles.</string>
+    <string name="camera_permission_denied">Permisos de la cámara denegados.</string>
+    <string name="camera_permission_granted">Permisos de la cámara otorgados.</string>
+    <string name="camera_permission_not_available">Permisos no disponibles. Son necesarios los permisos de la cámara.</string>
+    <string name="camera_unavailable"><b>Cámara no disponible.</b></string>
+    <string name="error_chat_conection">Error en la conexión al chat</string>
+    <string name="escribe_aqui">Escribe aquí ...</string>
+    <string name="escuchando">Escuchando ...</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDq4lzJEYSx4ILKfi9fJcNcaqM7gbxbDF0</string>
+    <string name="lector_qr">Lector QR</string>
+    <string name="ok">OK</string>
+    <string name="query_vacia">Query vacía</string>
+    <string name="url_accesocomedores">https://scu.ugr.es/pages/acceso</string>
+    <string name="url_becaministerio">https://www.educacionyfp.gob.es/servicios-al-ciudadano/catalogo/estudiantes/becas-ayudas/para-estudiar/universidad/grado/becas-generales-universitarias.html</string>
+    <string name="url_becaugr">https://ve.ugr.es/servicios/becas/becas-y-ayudas/becas-propias</string>
+    <string name="url_erasmus">https://internacional.ugr.es/pages/movilidad/estudiantes/salientes</string>
+    <string name="url_localizacioncomedor">https://scu.ugr.es/pages/localizacion</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <item name="android:windowBackground">#F5F5DC</item>
+</style>
+    <style name="Theme.MiAplicacionMovil" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

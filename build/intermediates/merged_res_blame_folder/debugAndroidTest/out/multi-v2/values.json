@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.miaplicacionmovil.test.app-mergeDebugAndroidTestResources-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Antonio\\Desktop\\UNI\\NPI\\FINAL_NPI\\MiAplicacionMovil\\app\\build\\generated\\res\\resValues\\androidTest\\debug\\values\\gradleResValues.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "161",
+                        "endColumns": "109",
+                        "endOffsets": "266"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "109",
+                        "endOffsets": "160"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Antonio\\.gradle\\caches\\transforms-3\\93accd4ab6e6449dfa751085017a7b7b\\transformed\\core-1.5.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,11",
+                        "startColumns": "0,0",
+                        "startOffsets": "176,544",
+                        "endLines": "10,17",
+                        "endColumns": "8,8",
+                        "endOffsets": "543,909"
+                    },
+                    "to": {
+                        "startLines": "3,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "165,537",
+                        "endLines": "9,16",
+                        "endColumns": "8,8",
+                        "endOffsets": "532,902"
+                    }
+                }
+            ]
+        }
+    ]
+}

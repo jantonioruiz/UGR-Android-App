@@ -1,0 +1,533 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:2:1-95:12
+INJECTED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:2:1-95:12
+MERGED from [androidx.databinding:viewbinding:8.1.3] C:\Users\Juan Antonio\.gradle\caches\transforms-3\a0ccff1d9189d09af10c4d6417cf25be\transformed\viewbinding-8.1.3\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\cb8d842abcf3c374139a925bdd97c7e0\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\487b1fc2aa2ca5586f9a011b375b4c71\transformed\play-services-maps-18.2.0\AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Juan Antonio\.gradle\caches\transforms-3\e64150522a85b3dc5137a03f84c1e31e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\e56fdac0f9b9861d3d7a0dedb97a301d\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\c1fb0fb464df787c9458f5aa9079531d\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\6e6ebc121ff6a0290fea38f8e06695fc\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Juan Antonio\.gradle\caches\transforms-3\d10ff6e384c5f121953896fb65d244e0\transformed\play-services-vision-20.1.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\2cd7293673e271bf185f3a68e58ffabf\transformed\play-services-location-21.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Juan Antonio\.gradle\caches\transforms-3\30aa563f35de4f32e2d29e98ed45f2dc\transformed\play-services-vision-common-19.1.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\7aede2e573c47195ca5c9f6b7581b299\transformed\play-services-clearcut-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\f0d313d175038815224061ac8638e1ad\transformed\play-services-flags-17.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\363a29026b03816544e38404aa2b8210\transformed\play-services-phenotype-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\d827cdfdb10934c398d46fe6c0085214\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Juan Antonio\.gradle\caches\transforms-3\24160a02503b3334831f0fdb0c6c5a2f\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\9f0e4aebb630e13b68caad760e341245\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Juan Antonio\.gradle\caches\transforms-3\f187866beb1fe071dd1fbc4580886fd1\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Juan Antonio\.gradle\caches\transforms-3\c1ec1a4e3b83fae5a0ec825a0954b23e\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Juan Antonio\.gradle\caches\transforms-3\b9b77b919c9561557e669a9754d72f83\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\6538d42d129f64151185fd71920b7538\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\8ee2aee10b60cdc2f9bdd32aea38e951\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\8f1a54f1dfadd6f74f89613f1c561d1b\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\5563607734b7ac8797b4796e59f5dc9e\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\0662af5945817e0b653dfb948f2f6ea5\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\d9742e956dc216ea769570ca163e667c\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\66169e554e9051fb8d08f9a67a6e1364\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\7873b3be7d6c14773642ffac87beb433\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\03a2967ac7cd3caa1657b97e0333c57d\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\036f62f8e914b1d1177dd0e4934a3a2e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\521d1726c7cced10695e5218473f5683\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\bf8587ba1b283bc8715079784ffb5919\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\de2a8b1fde04d64108906dbb7018e0e1\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\3919fa9680a8c9d94a75c6810330b5ae\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dd15218470bd37a97f2ce8b34a1cc0e6\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\32c7d6ce49f504a69467c18a7fb8636e\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\4fd4ca8dd81cf9bf6a022cb7bceab493\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\9e38256427b33be93ddeafb28330a6c6\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\440faaf0d410857b782e79ca7fe563d1\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\6ba0617c59c8062af67d7e39d4b9c2cc\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\37d39bd4b70bdeb33d8c21ea54828d6b\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\e82b7db37e353467921e2e5237047574\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\c550ff2d945ec0859eed243237eaa66b\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\34372a90291b96952fe14c9f8e5e7248\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\449f6007ad48952267e033abf574d662\transformed\gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Juan Antonio\.gradle\caches\transforms-3\3b42b14839b33676a06c209922cb08bc\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\4fafe8b9971959350fd5a3b8be0711d9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\36d7c9722319cdcdbadba71591cc02a8\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\231952de3634281f4ca3f74724447fc4\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\3758bf2e0cafdd81560414f8657aabd0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\b1e592cfc7b225a5556bbe0cf524bfb3\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\8a714a83d7aadbbb8caacc69a40617a9\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\7d34d43a426e570552316aaa7628daae\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\64a73781c89f171f0d4af5d819e00c53\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\9b136846b8bb93b1ff009e1138ccb2c4\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:6:22-68
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:8:5-10:36
+	android:required
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:10:9-33
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:9:9-47
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:13:5-73
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:13:22-70
+uses-feature#android.hardware.sensor.gyroscope
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:16:9-57
+application
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:19:5-93:19
+INJECTED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:19:5-93:19
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\cb8d842abcf3c374139a925bdd97c7e0\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\cb8d842abcf3c374139a925bdd97c7e0\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\487b1fc2aa2ca5586f9a011b375b4c71\transformed\play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\487b1fc2aa2ca5586f9a011b375b4c71\transformed\play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Juan Antonio\.gradle\caches\transforms-3\e64150522a85b3dc5137a03f84c1e31e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Juan Antonio\.gradle\caches\transforms-3\e64150522a85b3dc5137a03f84c1e31e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Juan Antonio\.gradle\caches\transforms-3\d10ff6e384c5f121953896fb65d244e0\transformed\play-services-vision-20.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Juan Antonio\.gradle\caches\transforms-3\d10ff6e384c5f121953896fb65d244e0\transformed\play-services-vision-20.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\2cd7293673e271bf185f3a68e58ffabf\transformed\play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\2cd7293673e271bf185f3a68e58ffabf\transformed\play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Juan Antonio\.gradle\caches\transforms-3\30aa563f35de4f32e2d29e98ed45f2dc\transformed\play-services-vision-common-19.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Juan Antonio\.gradle\caches\transforms-3\30aa563f35de4f32e2d29e98ed45f2dc\transformed\play-services-vision-common-19.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\7aede2e573c47195ca5c9f6b7581b299\transformed\play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\7aede2e573c47195ca5c9f6b7581b299\transformed\play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\363a29026b03816544e38404aa2b8210\transformed\play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\363a29026b03816544e38404aa2b8210\transformed\play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\d827cdfdb10934c398d46fe6c0085214\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\d827cdfdb10934c398d46fe6c0085214\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Juan Antonio\.gradle\caches\transforms-3\24160a02503b3334831f0fdb0c6c5a2f\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Juan Antonio\.gradle\caches\transforms-3\24160a02503b3334831f0fdb0c6c5a2f\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\9f0e4aebb630e13b68caad760e341245\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\9f0e4aebb630e13b68caad760e341245\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dd15218470bd37a97f2ce8b34a1cc0e6\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dd15218470bd37a97f2ce8b34a1cc0e6\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\4fd4ca8dd81cf9bf6a022cb7bceab493\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\4fd4ca8dd81cf9bf6a022cb7bceab493\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\4fafe8b9971959350fd5a3b8be0711d9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\4fafe8b9971959350fd5a3b8be0711d9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\3758bf2e0cafdd81560414f8657aabd0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\3758bf2e0cafdd81560414f8657aabd0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dd15218470bd37a97f2ce8b34a1cc0e6\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:24:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:22:9-54
+	android:roundIcon
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:25:9-46
+	tools:targetApi
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:28:9-29
+	android:icon
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:23:9-41
+	android:allowBackup
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:27:9-55
+	android:dataExtractionRules
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:21:9-65
+activity#com.example.miaplicacionmovil.RouteFacultySelectedActivity
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:29:9-32:46
+	android:exported
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:31:13-37
+	android:theme
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:32:13-44
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:30:13-57
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:34:9-36:55
+	android:value
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:36:13-52
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:35:13-58
+activity#com.example.miaplicacionmovil.VisualizarFacultadActivity
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:38:9-41:46
+	android:exported
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:40:13-37
+	android:theme
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:39:13-55
+activity#com.example.miaplicacionmovil.ListFacultyActivity
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:42:9-45:46
+	android:exported
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:44:13-37
+	android:theme
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:45:13-44
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:43:13-48
+activity#com.example.miaplicacionmovil.SplashActivity
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:46:9-55:20
+	android:exported
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:47:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:50:13-54:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:53:27-74
+activity#com.example.miaplicacionmovil.ActivitySlide
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:56:9-59:47
+	android:label
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:58:13-37
+	android:theme
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:59:13-44
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:57:13-42
+activity#com.example.miaplicacionmovil.MenuActivity
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:60:9-63:47
+	android:exported
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:62:13-37
+	android:theme
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:61:13-41
+activity#com.example.miaplicacionmovil.ActivityQR
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:64:9-67:47
+	android:exported
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:66:13-37
+	android:theme
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:67:13-44
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:65:13-39
+activity#com.example.miaplicacionmovil.ActivityMaps
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:68:9-71:47
+	android:exported
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:70:13-37
+	android:theme
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:71:13-44
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:69:13-41
+activity#com.example.miaplicacionmovil.ActivityInfo
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:72:9-75:47
+	android:exported
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:74:13-37
+	android:theme
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:75:13-44
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:73:13-41
+activity#com.example.miaplicacionmovil.ActivityTransporte
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:76:9-79:47
+	android:exported
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:78:13-37
+	android:theme
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:79:13-44
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:77:13-47
+activity#com.example.miaplicacionmovil.ActivityBecasyErasmus
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:80:9-83:47
+	android:exported
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:82:13-37
+	android:theme
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:83:13-44
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:81:13-50
+activity#com.example.miaplicacionmovil.ActivityComedor
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:84:9-87:47
+	android:exported
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:86:13-37
+	android:theme
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:87:13-44
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:85:13-44
+activity#com.example.miaplicacionmovil.FragmentDialogFlow
+ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:89:9-92:47
+	android:screenOrientation
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:91:13-49
+	android:theme
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:92:13-44
+	android:name
+		ADDED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml:90:13-47
+uses-sdk
+INJECTED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.1.3] C:\Users\Juan Antonio\.gradle\caches\transforms-3\a0ccff1d9189d09af10c4d6417cf25be\transformed\viewbinding-8.1.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.1.3] C:\Users\Juan Antonio\.gradle\caches\transforms-3\a0ccff1d9189d09af10c4d6417cf25be\transformed\viewbinding-8.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\cb8d842abcf3c374139a925bdd97c7e0\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\cb8d842abcf3c374139a925bdd97c7e0\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\487b1fc2aa2ca5586f9a011b375b4c71\transformed\play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\487b1fc2aa2ca5586f9a011b375b4c71\transformed\play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Juan Antonio\.gradle\caches\transforms-3\e64150522a85b3dc5137a03f84c1e31e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Juan Antonio\.gradle\caches\transforms-3\e64150522a85b3dc5137a03f84c1e31e\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\e56fdac0f9b9861d3d7a0dedb97a301d\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\e56fdac0f9b9861d3d7a0dedb97a301d\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\c1fb0fb464df787c9458f5aa9079531d\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\c1fb0fb464df787c9458f5aa9079531d\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\6e6ebc121ff6a0290fea38f8e06695fc\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\6e6ebc121ff6a0290fea38f8e06695fc\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Juan Antonio\.gradle\caches\transforms-3\d10ff6e384c5f121953896fb65d244e0\transformed\play-services-vision-20.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\Juan Antonio\.gradle\caches\transforms-3\d10ff6e384c5f121953896fb65d244e0\transformed\play-services-vision-20.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\2cd7293673e271bf185f3a68e58ffabf\transformed\play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\2cd7293673e271bf185f3a68e58ffabf\transformed\play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Juan Antonio\.gradle\caches\transforms-3\30aa563f35de4f32e2d29e98ed45f2dc\transformed\play-services-vision-common-19.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\Juan Antonio\.gradle\caches\transforms-3\30aa563f35de4f32e2d29e98ed45f2dc\transformed\play-services-vision-common-19.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\7aede2e573c47195ca5c9f6b7581b299\transformed\play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\7aede2e573c47195ca5c9f6b7581b299\transformed\play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\f0d313d175038815224061ac8638e1ad\transformed\play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\f0d313d175038815224061ac8638e1ad\transformed\play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\363a29026b03816544e38404aa2b8210\transformed\play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\363a29026b03816544e38404aa2b8210\transformed\play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\d827cdfdb10934c398d46fe6c0085214\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\d827cdfdb10934c398d46fe6c0085214\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Juan Antonio\.gradle\caches\transforms-3\24160a02503b3334831f0fdb0c6c5a2f\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Juan Antonio\.gradle\caches\transforms-3\24160a02503b3334831f0fdb0c6c5a2f\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\9f0e4aebb630e13b68caad760e341245\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\9f0e4aebb630e13b68caad760e341245\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Juan Antonio\.gradle\caches\transforms-3\f187866beb1fe071dd1fbc4580886fd1\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Juan Antonio\.gradle\caches\transforms-3\f187866beb1fe071dd1fbc4580886fd1\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Juan Antonio\.gradle\caches\transforms-3\c1ec1a4e3b83fae5a0ec825a0954b23e\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Juan Antonio\.gradle\caches\transforms-3\c1ec1a4e3b83fae5a0ec825a0954b23e\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Juan Antonio\.gradle\caches\transforms-3\b9b77b919c9561557e669a9754d72f83\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Juan Antonio\.gradle\caches\transforms-3\b9b77b919c9561557e669a9754d72f83\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\6538d42d129f64151185fd71920b7538\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\6538d42d129f64151185fd71920b7538\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\8ee2aee10b60cdc2f9bdd32aea38e951\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\8ee2aee10b60cdc2f9bdd32aea38e951\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\8f1a54f1dfadd6f74f89613f1c561d1b\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\8f1a54f1dfadd6f74f89613f1c561d1b\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\5563607734b7ac8797b4796e59f5dc9e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\5563607734b7ac8797b4796e59f5dc9e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\0662af5945817e0b653dfb948f2f6ea5\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\0662af5945817e0b653dfb948f2f6ea5\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\d9742e956dc216ea769570ca163e667c\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\d9742e956dc216ea769570ca163e667c\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\66169e554e9051fb8d08f9a67a6e1364\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\66169e554e9051fb8d08f9a67a6e1364\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\7873b3be7d6c14773642ffac87beb433\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\7873b3be7d6c14773642ffac87beb433\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\03a2967ac7cd3caa1657b97e0333c57d\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\03a2967ac7cd3caa1657b97e0333c57d\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\036f62f8e914b1d1177dd0e4934a3a2e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\036f62f8e914b1d1177dd0e4934a3a2e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\521d1726c7cced10695e5218473f5683\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\521d1726c7cced10695e5218473f5683\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\bf8587ba1b283bc8715079784ffb5919\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\bf8587ba1b283bc8715079784ffb5919\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\de2a8b1fde04d64108906dbb7018e0e1\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\de2a8b1fde04d64108906dbb7018e0e1\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\3919fa9680a8c9d94a75c6810330b5ae\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\3919fa9680a8c9d94a75c6810330b5ae\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dd15218470bd37a97f2ce8b34a1cc0e6\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dd15218470bd37a97f2ce8b34a1cc0e6\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\32c7d6ce49f504a69467c18a7fb8636e\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\32c7d6ce49f504a69467c18a7fb8636e\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\4fd4ca8dd81cf9bf6a022cb7bceab493\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\4fd4ca8dd81cf9bf6a022cb7bceab493\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\9e38256427b33be93ddeafb28330a6c6\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\9e38256427b33be93ddeafb28330a6c6\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\440faaf0d410857b782e79ca7fe563d1\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\440faaf0d410857b782e79ca7fe563d1\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\6ba0617c59c8062af67d7e39d4b9c2cc\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\6ba0617c59c8062af67d7e39d4b9c2cc\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\37d39bd4b70bdeb33d8c21ea54828d6b\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\37d39bd4b70bdeb33d8c21ea54828d6b\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\e82b7db37e353467921e2e5237047574\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\e82b7db37e353467921e2e5237047574\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\c550ff2d945ec0859eed243237eaa66b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\c550ff2d945ec0859eed243237eaa66b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\34372a90291b96952fe14c9f8e5e7248\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\34372a90291b96952fe14c9f8e5e7248\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\449f6007ad48952267e033abf574d662\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\449f6007ad48952267e033abf574d662\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Juan Antonio\.gradle\caches\transforms-3\3b42b14839b33676a06c209922cb08bc\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Juan Antonio\.gradle\caches\transforms-3\3b42b14839b33676a06c209922cb08bc\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\4fafe8b9971959350fd5a3b8be0711d9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\4fafe8b9971959350fd5a3b8be0711d9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\36d7c9722319cdcdbadba71591cc02a8\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\36d7c9722319cdcdbadba71591cc02a8\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\231952de3634281f4ca3f74724447fc4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\231952de3634281f4ca3f74724447fc4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\3758bf2e0cafdd81560414f8657aabd0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\3758bf2e0cafdd81560414f8657aabd0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\b1e592cfc7b225a5556bbe0cf524bfb3\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\b1e592cfc7b225a5556bbe0cf524bfb3\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\8a714a83d7aadbbb8caacc69a40617a9\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\8a714a83d7aadbbb8caacc69a40617a9\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\7d34d43a426e570552316aaa7628daae\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\7d34d43a426e570552316aaa7628daae\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\64a73781c89f171f0d4af5d819e00c53\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\64a73781c89f171f0d4af5d819e00c53\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\9b136846b8bb93b1ff009e1138ccb2c4\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\9b136846b8bb93b1ff009e1138ccb2c4\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Juan Antonio\Downloads\estesi\MiAplicacionMovil\MiAplicacionMovil\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\487b1fc2aa2ca5586f9a011b375b4c71\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\487b1fc2aa2ca5586f9a011b375b4c71\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\487b1fc2aa2ca5586f9a011b375b4c71\transformed\play-services-maps-18.2.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\487b1fc2aa2ca5586f9a011b375b4c71\transformed\play-services-maps-18.2.0\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\487b1fc2aa2ca5586f9a011b375b4c71\transformed\play-services-maps-18.2.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\487b1fc2aa2ca5586f9a011b375b4c71\transformed\play-services-maps-18.2.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\487b1fc2aa2ca5586f9a011b375b4c71\transformed\play-services-maps-18.2.0\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\487b1fc2aa2ca5586f9a011b375b4c71\transformed\play-services-maps-18.2.0\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\487b1fc2aa2ca5586f9a011b375b4c71\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\487b1fc2aa2ca5586f9a011b375b4c71\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\487b1fc2aa2ca5586f9a011b375b4c71\transformed\play-services-maps-18.2.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\487b1fc2aa2ca5586f9a011b375b4c71\transformed\play-services-maps-18.2.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\487b1fc2aa2ca5586f9a011b375b4c71\transformed\play-services-maps-18.2.0\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\d827cdfdb10934c398d46fe6c0085214\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\d827cdfdb10934c398d46fe6c0085214\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\d827cdfdb10934c398d46fe6c0085214\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\d827cdfdb10934c398d46fe6c0085214\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\9f0e4aebb630e13b68caad760e341245\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\9f0e4aebb630e13b68caad760e341245\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\9f0e4aebb630e13b68caad760e341245\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\4fd4ca8dd81cf9bf6a022cb7bceab493\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\4fd4ca8dd81cf9bf6a022cb7bceab493\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\4fafe8b9971959350fd5a3b8be0711d9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\4fafe8b9971959350fd5a3b8be0711d9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dc3a2527719af6ee81f6de9e4f2793d9\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dd15218470bd37a97f2ce8b34a1cc0e6\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dd15218470bd37a97f2ce8b34a1cc0e6\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dd15218470bd37a97f2ce8b34a1cc0e6\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.example.miaplicacionmovil.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dd15218470bd37a97f2ce8b34a1cc0e6\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dd15218470bd37a97f2ce8b34a1cc0e6\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dd15218470bd37a97f2ce8b34a1cc0e6\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dd15218470bd37a97f2ce8b34a1cc0e6\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dd15218470bd37a97f2ce8b34a1cc0e6\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.miaplicacionmovil.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dd15218470bd37a97f2ce8b34a1cc0e6\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\dd15218470bd37a97f2ce8b34a1cc0e6\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\4fd4ca8dd81cf9bf6a022cb7bceab493\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\4fd4ca8dd81cf9bf6a022cb7bceab493\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Juan Antonio\.gradle\caches\transforms-3\4fd4ca8dd81cf9bf6a022cb7bceab493\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Juan Antonio\.gradle\caches\transforms-3\1915496ef62d778cb7062eae94a11d99\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-mergeDebugResources-35:\\layout\\activity_dialogflow.xml",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_dialogflow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-mergeDebugResources-35:\\layout\\activity_info.xml",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-mergeDebugResources-35:\\layout\\bot_msg_layout.xml",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\bot_msg_layout.xml"
+    },
+    {
+        "merged": "com.example.miaplicacionmovil.app-mergeDebugResources-35:/layout/activity_becasyreasmus.xml",
+        "source": "com.example.miaplicacionmovil.app-main-38:/layout/activity_becasyreasmus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-mergeDebugResources-35:\\layout\\activity_slide.xml",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-mergeDebugResources-35:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-mergeDebugResources-35:\\layout\\activity_comedor.xml",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_comedor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-mergeDebugResources-35:\\layout\\activity_transporte.xml",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_transporte.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-mergeDebugResources-35:\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-mergeDebugResources-35:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-mergeDebugResources-35:\\layout\\activity_becasyreasmus.xml",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_becasyreasmus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-mergeDebugResources-35:\\layout\\activity_visualizar_facultad.xml",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_visualizar_facultad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-mergeDebugResources-35:\\layout\\activity_route_faculty_selected.xml",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_route_faculty_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-mergeDebugResources-35:\\layout\\slide_screen.xml",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\slide_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-mergeDebugResources-35:\\layout\\custom_info_window.xml",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\custom_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-mergeDebugResources-35:\\layout\\activity_list_faculty.xml",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_list_faculty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-mergeDebugResources-35:\\layout\\activity_qr.xml",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\activity_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-mergeDebugResources-35:\\layout\\user_msg_layout.xml",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\user_msg_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-mergeDebugResources-35:\\layout\\item_faculty.xml",
+        "source": "C:\\Users\\Juan Antonio\\.gradle\\daemon\\8.0\\com.example.miaplicacionmovil.app-main-38:\\layout\\item_faculty.xml"
+    }
+]

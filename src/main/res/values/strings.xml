@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ETSIIT Punto Información</string>
+
+    <!-- Acerca de la cámara -->
+    <string name="camera_unavailable"><b>Cámara no disponible.</b></string>
+    <string name="camera_access_required">El acceso a la cámara es necesario para usar el lector QR.</string>
+    <string name="camera_permission_not_available">Permisos no disponibles. Son necesarios los permisos de la cámara.</string>
+    <string name="camera_permission_available">Permisos de la cámara disponibles.</string>
+    <string name="camera_permission_granted">Permisos de la cámara otorgados.</string>
+    <string name="camera_permission_denied">Permisos de la cámara denegados.</string>
+
+    <string name="url_becaministerio">https://www.educacionyfp.gob.es/servicios-al-ciudadano/catalogo/estudiantes/becas-ayudas/para-estudiar/universidad/grado/becas-generales-universitarias.html</string>
+    <string name="url_becaugr">https://ve.ugr.es/servicios/becas/becas-y-ayudas/becas-propias</string>
+    <string name="url_erasmus">https://internacional.ugr.es/pages/movilidad/estudiantes/salientes</string>
+
+    <string name="url_localizacioncomedor">https://scu.ugr.es/pages/localizacion</string>
+    <string name="url_accesocomedores">https://scu.ugr.es/pages/acceso</string>
+
+    <string name="escuchando">Escuchando ...</string>
+    <string name="query_vacia">Query vacía</string>
+    <string name="error_chat_conection">Error en la conexión al chat</string>
+    <string name="audio_permission_granted">Permisos de audio otorgados</string>
+
+    <string name="ok">OK</string>
+    <string name="lector_qr">Lector QR</string>
+    <string name="escribe_aqui">Escribe aquí ...</string>
+</resources>

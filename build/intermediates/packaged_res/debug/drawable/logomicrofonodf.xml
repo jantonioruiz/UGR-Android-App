@@ -1,0 +1,16 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fondo redondeado -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/naranja_claro" /> <!-- Color del fondo -->
+        </shape>
+    </item>
+
+    <!-- Imagen en la parte superior -->
+    <item
+        android:drawable="@drawable/microfonodf"
+        android:width="20dp"
+        android:height="20dp"
+        android:gravity="center"
+        />
+</layer-list>
